@@ -1,5 +1,5 @@
 # Calculadora-sistemas-numericos
-<h2>INTEGRATES: </h2>
+<h2>INTEGRANTES: </h2>
 </br>
 <ul>
 
